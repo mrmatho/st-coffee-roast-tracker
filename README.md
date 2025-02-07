@@ -1,2 +1,1 @@
-# st-coffee-roast-tracker
-A repository for a coffee roast tracker using Streamlit
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
